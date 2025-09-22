@@ -1,0 +1,7 @@
+.astro/**/*
+.env
+.wrangler
+resources/_gen/**/*
+*/**/.DS_Store
+node_modules
+dist
